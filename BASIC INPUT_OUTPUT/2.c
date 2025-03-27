@@ -1,3 +1,4 @@
+//convert cen to fornheight 
 #include<stdio.h>
 int main()
 {
@@ -9,4 +10,4 @@ printf("\n temperatura in farenheit is %f",f);
 return 0;
 
 }
-//
+
