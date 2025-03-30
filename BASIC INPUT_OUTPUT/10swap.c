@@ -1,4 +1,5 @@
-//swap of two number using third variable help of ternary operater
+//Swap of two number using third variable help of ternary operater
+
 #include<stdio.h>
 int main()
 {
