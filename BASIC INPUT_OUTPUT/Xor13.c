@@ -1,4 +1,4 @@
-//w.a.p  swap of two number using bitwise operater
+//write a program swap of two number using bitwise operater
 #include<stdio.h>
 int main()
 {
