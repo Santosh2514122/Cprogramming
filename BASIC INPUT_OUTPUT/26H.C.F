@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-int  a,b,h;
+int a,b,h;
 printf("enter the two number:");
 scanf("%d%d",&a,&b);
 for(h=a<b?a:b;h>=1;h--)
