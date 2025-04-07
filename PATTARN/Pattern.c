@@ -1,3 +1,5 @@
+//print the star
+
 #include<stdio.h>
 int main()
 {
