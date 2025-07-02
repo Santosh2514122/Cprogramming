@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 int main() {
-  
-    // Switch variable
+ // Switch variable
     int var = 1;
 
     // Switch statement
